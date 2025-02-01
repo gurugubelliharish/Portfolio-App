@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio_app/static/css/main.5527757d.css",
+    "main.js": "/portfolio_app/static/js/main.2b35d27f.js",
+    "static/js/787.30237536.chunk.js": "/portfolio_app/static/js/787.30237536.chunk.js",
+    "static/media/ShivaMain.jpg": "/portfolio_app/static/media/ShivaMain.938c4071c19e9ff948b2.jpg",
+    "static/media/logo.svg": "/portfolio_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/degree.svg": "/portfolio_app/static/media/degree.64e246ef4ee5e8a40f382ed7bf4613c9.svg",
+    "static/media/experience.svg": "/portfolio_app/static/media/experience.535b2060343e582a0ad732cdf34a4aca.svg",
+    "static/media/school.svg": "/portfolio_app/static/media/school.b2e0a665c6c9b4d9b3150b6d8d1ebae4.svg",
+    "index.html": "/portfolio_app/index.html",
+    "main.5527757d.css.map": "/portfolio_app/static/css/main.5527757d.css.map",
+    "main.2b35d27f.js.map": "/portfolio_app/static/js/main.2b35d27f.js.map",
+    "787.30237536.chunk.js.map": "/portfolio_app/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5527757d.css",
+    "static/js/main.2b35d27f.js"
+  ]
+}
